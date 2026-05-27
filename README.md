@@ -92,21 +92,19 @@ You can deploy this project on:
 
 ## Home Page
 
-```bash
-/assets/screenshots/home.png
-```
+![Home Page](./assets/Home.png)
 
 ## About Section
 
-```bash
-/assets/screenshots/about.png
-```
+![About Section](./assets/about.png)
 
 ## Weapons Section
 
-```bash
-/assets/screenshots/weapons.png
-```
+![Weapons Section](./assets/weapons.png)
+
+## Footer Section
+
+![Footer Section](./assets/footer.png)
 
 ---
 
