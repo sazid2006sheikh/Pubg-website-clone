@@ -43,7 +43,6 @@ The project is built completely using:
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
 
 ---
 
