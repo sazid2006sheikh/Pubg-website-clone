@@ -11,6 +11,7 @@ This project is a PUBG Clone Website designed to deliver a modern gaming experie
 The project is built completely using:
 - HTML5
 - CSS3
+- JS(ES6+)
 
 ---
 
